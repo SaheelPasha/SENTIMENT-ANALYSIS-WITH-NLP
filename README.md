@@ -48,4 +48,6 @@ This task demonstrates the end-to-end application of an NLP pipeline, covering p
 
 # output
 
+![Image](https://github.com/user-attachments/assets/809548db-fade-49fa-876a-3b47899267c9)
+
 
